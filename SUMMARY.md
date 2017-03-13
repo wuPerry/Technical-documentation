@@ -10,4 +10,5 @@
     * [Login](chapter1/web-interface-access/login.md)
     * [Save Config Function](chapter1/web-interface-access/save-config-function.md)
     * [Disable the Web Server](chapter1/web-interface-access/disable-the-web-server.md)
+    * [Configure the Switch's IP Address and Default Gateway](chapter1/web-interface-access/configure-the-switch's-ip-address-and-default-gateway.md)
 
