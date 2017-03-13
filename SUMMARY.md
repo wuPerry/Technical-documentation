@@ -7,4 +7,6 @@
 * [Accessing the Switch](chapter1.md)
   * [Overview](chapter1/overview.md)
   * [Web Interface Access](chapter1/web-interface-access.md)
+    * [Login](chapter1/web-interface-access/login.md)
+    * [Save Config Function](chapter1/web-interface-access/save-config-function.md)
 
