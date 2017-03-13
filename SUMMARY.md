@@ -5,4 +5,5 @@
   * [Conventions](conventions.md)
   * [More Information](more-information.md)
 * [Accessing the Switch](chapter1.md)
+  * [Overview](chapter1/overview.md)
 
