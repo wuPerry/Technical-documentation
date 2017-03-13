@@ -5,5 +5,8 @@
     "sidebar" : {
         "Home" : "http://localhost:4000/"
     }
-   }
+   },
+   "theme-default": {
+        "showLevel": true
+    }
 }
