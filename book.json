@@ -8,5 +8,8 @@
    },
    "theme-default": {
         "showLevel": true
+    },
+    "styles":{
+      "website": "style/css.css",
     }
 }
