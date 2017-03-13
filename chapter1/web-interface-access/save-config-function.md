@@ -1,4 +1,4 @@
-## Disable the Web Server
+### Disable the Web Server
 
 The switch’s configuration files fall into two types: the running configuration file and the
 
@@ -13,6 +13,4 @@ switch reboots.
 If you need to keep the configurations after the switch reboots, please use the Save Config
 
 function on the main interface to save the configurations in the start-up configuration file.
-
-
 
