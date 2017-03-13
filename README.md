@@ -1,3 +1,6 @@
-# My Awesome Book
+# About This Guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This Configuration Guide provides information for managing T2600G Series Switches.
+
+Please read this guide carefully before operation.
+
