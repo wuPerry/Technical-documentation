@@ -10,6 +10,6 @@
         "showLevel": true
     },
     "styles":{
-      "website": "style/css.css"
+      "website": "style/css/main.css"
     }
 }
