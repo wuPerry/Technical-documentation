@@ -14,4 +14,5 @@
 * [Managing System](managing-system.md)
   * [System](managing-system/system.md)
     * [Overview](managing-system/system/overview.md)
+    * [Supported Features](managing-system/system/supported-features.md)
 
