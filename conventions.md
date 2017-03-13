@@ -17,11 +17,21 @@ The symbol stands for Note. Notes contains suggestions or references that helps 
 
 * For GUI:
 
-Menu Name &gt; Submenu Name &gt; Tab page indicates the menu structure. System &gt;
+**Menu Name &gt; Submenu Name &gt; Tab page** indicates the menu structure. System &gt;
 
 System Info &gt; System Summary means the System Summary page under the System Info
 
 menu option that is located under the System menu.
+
+**Bold font** indicates a button, a toolbar icon, menu or menu item.
+
+* For CLI:
+
+| Bold Font | An unalterable keyword. |
+| :--- | :--- |
+|  |  |
+|  |  |
+|  |  |
 
 
 
