@@ -6,4 +6,5 @@
   * [More Information](more-information.md)
 * [Accessing the Switch](chapter1.md)
   * [Overview](chapter1/overview.md)
+  * [Web Interface Access](chapter1/web-interface-access.md)
 
