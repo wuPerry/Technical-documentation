@@ -15,7 +15,9 @@ In this Guide, the following conventions are used:
 The symbol stands for Note. Notes contains suggestions or references that helps you  
  make better use of your device.
 
-* For GUI:
+<ul class="square">
+  <li>For GUI:</li>
+</ul>
 
 **Menu Name &gt; Submenu Name &gt; Tab page** indicates the menu structure. System &gt;
 
