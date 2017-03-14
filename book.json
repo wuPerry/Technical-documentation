@@ -7,7 +7,7 @@
     }
    },
    "theme-default": {
-        "showLevel": false
+        "showLevel": true
     },
     "styles":{
       "website": "style/css/main.css"
