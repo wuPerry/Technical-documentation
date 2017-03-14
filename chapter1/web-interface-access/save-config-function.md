@@ -14,5 +14,5 @@ If you need to keep the configurations after the switch reboots, please use the 
 
 function on the main interface to save the configurations in the start-up configuration file.
 
-
+![](/assets/11030053686_41f07a48a9_c.jpg)
 
