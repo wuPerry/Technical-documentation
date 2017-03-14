@@ -30,5 +30,8 @@
     font-style: normal;
 }
 body{font-family:"AktivGrotesk-Light", Helvetica, Arial, sans-serif}
-body h1{font-family:"AktivGrotesk-Medium", Helvetica, Arial, sans-serif;}
+body h1,body h2{font-family:"AktivGrotesk-Medium", Helvetica, Arial, sans-serif;}
 body h1{font-size:55px;line-height:60px;}
+body h2{font-size:22px;line-height:27px;}
+body h3{font-family:"AktivGrotesk-Bold", Helvetica, Arial, sans-serif;}
+
