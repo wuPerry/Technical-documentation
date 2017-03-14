@@ -1,4 +1,4 @@
-* [ ] # Conventions
+# Conventions
 
 When using this guide, please notice that features of the switch may vary slightly  
  depending on the model and software version you have. All screenshots, images,  
