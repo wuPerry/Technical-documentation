@@ -10,7 +10,8 @@
       "website": "style/css/main.css"
     },
     "plugins": [
-      "tbfed-pagefooter"
+      "tbfed-pagefooter",
+      "image-captions"
     ],
     "pluginsConfig": {
       "tbfed-pagefooter": {
@@ -20,6 +21,9 @@
       },
       "theme-default": {
             "showLevel": true
+      },
+      "image-captions": {
+          "caption": "Image - _CAPTION_"
       }
     }
 }
