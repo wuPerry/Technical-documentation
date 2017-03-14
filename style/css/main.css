@@ -36,6 +36,8 @@ body h2{font-size:22px;line-height:27px;}
 body h3{font-family:"AktivGrotesk-Bold", Helvetica, Arial, sans-serif;font-size:16px;line-height:20px;}
 body h4{font-size:14px;line-height:15px;}
 .book-summary ul.summary{font-size:16px;}
+.square li{list-style-type:none;}
+.square li:before{content:""display:block;position:absolute;top:0;left:0;}
 
 
 
