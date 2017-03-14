@@ -29,7 +29,7 @@
     font-weight: normal;
     font-style: normal;
 }
-body{font-family:"AktivGrotesk-Regular", Helvetica, Arial, sans-serif;font-size:12px;line-height:12px;}
+body，.book.font-family-1{font-family:"AktivGrotesk-Regular", Helvetica, Arial, sans-serif;font-size:12px;line-height:12px;}
 body h1,body h2,body h4{font-family:"AktivGrotesk-Medium", Helvetica, Arial, sans-serif;}
 body h1{font-size:55px;line-height:60px;}
 body h2{font-size:22px;line-height:27px;}
