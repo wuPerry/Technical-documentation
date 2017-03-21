@@ -25,6 +25,9 @@
       },
       "image-captions": {
           "caption": " Figure _PAGE_LEVEL_ - _PAGE_IMAGE_NUMBER_  _CAPTION_"
-      }
+      },
+      "theme-api": {
+            "theme": "dark"
+        }
     }
 }
