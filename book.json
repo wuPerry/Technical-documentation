@@ -11,7 +11,8 @@
     },
     "plugins": [
       "tbfed-pagefooter",
-      "image-captions"
+      "image-captions",
+      "theme-api"
     ],
     "pluginsConfig": {
       "tbfed-pagefooter": {
